@@ -1,0 +1,24 @@
+#body-color{
+background-color:#6699CC;
+}
+#Sign-In{
+margin-top:150px;
+margin-bottom:150px;
+margin-right:150px;
+margin-left:450px;
+border:10px solid #a1a1a1;
+padding:9px 35px; 
+background:#60CCCC;
+width:450px;
+border-radius:65px;
+box-shadow: 30px 30px 40px;
+}
+#button{
+border-radius:50px;
+width:100px;
+height:40px;
+background:#F0F000;
+font-weight:bold;
+font-size:15px
+}
+
